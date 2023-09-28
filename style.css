@@ -1,0 +1,30 @@
+body
+{
+    background-image:url("Bg.gif");
+    background-size: cover;
+}
+
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  color: lavenderblush;
+}
+
+canvas
+{
+    border: 50px;
+    border-color: lightsteelblue;
+}
+
+footer
+{
+  color: rgb(144, 205, 255);
+  background-color: aquamarine;
+  position: fixed;
+  bottom:0;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
